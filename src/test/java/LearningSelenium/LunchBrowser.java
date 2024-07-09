@@ -32,15 +32,17 @@ public class LunchBrowser {
 
 		// WebDriver driver = new ChromeDriver(options);
 
-           //Firefox
+		// Firefox
 
-		//System.setProperty("webdriver.gecko.driver", "/Users/rahulshetty/Documents/geckodriver");
+		// System.setProperty("webdriver.gecko.driver",
+		// "/Users/rahulshetty/Documents/geckodriver");
 
-		//WebDriver driver1 = new FirefoxDriver();
+		// WebDriver driver1 = new FirefoxDriver();
 
-            //Microsoft Edge
+		// Microsoft Edge
 
-		//System.setProperty("webdriver.edge.driver", "/Users/rahulshetty/Documents/msedgedriver");
+		// System.setProperty("webdriver.edge.driver",
+		// "/Users/rahulshetty/Documents/msedgedriver");
 
 		WebDriver driver2 = new EdgeDriver();
 
@@ -52,7 +54,7 @@ public class LunchBrowser {
 
 		driver.close();
 
-        //driver.quit();
+		// driver.quit();
 
 	}
 
