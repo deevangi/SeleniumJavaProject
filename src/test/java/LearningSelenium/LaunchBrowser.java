@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class LunchBrowser {
+public class LaunchBrowser {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
